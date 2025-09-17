@@ -1,3 +1,4 @@
+Tata Gen AI – AI-Powered Data Analytics (Project Simulation)
 💼 Business Aim
 Geldium's core mission is to enhance the health of its loan portfolio while optimizing the collections process. The current system is reactive and inefficient, leading to increased operational costs and potential customer churn. This project addresses these challenges by implementing a proactive, data-driven solution designed to prevent accounts from becoming delinquent, streamline collections for at-risk customers, reduce financial losses, and enhance the overall customer experience.
 
